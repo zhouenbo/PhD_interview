@@ -1,3 +1,3 @@
-1.µã»÷AdvancedGIS.exeÔËĞĞ³ÌĞò£»
-2.´ò¿ª¹¤³ÌÇëÏÈ°²×°Visual Studio£¬ÔÙË«»÷AdvancedGIS.sln£»
-3.²é¿´×÷ÒµÍê³ÉÇé¿öÇë´ò¿ª ¸ß¼¶µØÀíĞÅÏ¢ÏµÍ³³ÌĞò×÷Òµ_ÖÜ¶÷²¨.docx »òÕß ¸ß¼¶µØÀíĞÅÏ¢ÏµÍ³³ÌĞò×÷Òµ_ÖÜ¶÷²¨.pdf
+1.Click AdvancedGIS.exe to run the softwareï¼›
+2.To open the project,please install Visual Studio and double click AdvancedGIS.slnï¼›
+3.To check with the assignment, please open the document é«˜çº§åœ°ç†ä¿¡æ¯ç³»ç»Ÿç¨‹åºä½œä¸š_å‘¨æ©æ³¢.docx or é«˜çº§åœ°ç†ä¿¡æ¯ç³»ç»Ÿç¨‹åºä½œä¸š_å‘¨æ©æ³¢.pdf in Chinese.
