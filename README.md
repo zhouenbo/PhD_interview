@@ -1,4 +1,4 @@
-This project is to share codes for Ph.D. interview. 
+This project is to share codes for the Ph.D. interview. 
 
 The attachements are my programming examples. The first one is a Baidu Map POI fetcher (Java), which retrieves POIs from Baidu API and 
 stores them in a MySQL database. I have annotated this program. The second one is my assignment (C#) for graduate course Advanced GIS 
