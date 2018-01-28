@@ -1,0 +1,23 @@
+c:\users\zeb\documents\visual studio 2013\Projects\AdvancedGIS\AdvancedGIS\bin\Debug\AdvancedGIS.exe
+c:\users\zeb\documents\visual studio 2013\Projects\AdvancedGIS\AdvancedGIS\bin\Debug\AdvancedGIS.pdb
+c:\users\zeb\documents\visual studio 2013\Projects\AdvancedGIS\AdvancedGIS\obj\Debug\AdvancedGIS.csprojResolveAssemblyReference.cache
+c:\users\zeb\documents\visual studio 2013\Projects\AdvancedGIS\AdvancedGIS\obj\Debug\AdvancedGIS.Properties.Resources.resources
+c:\users\zeb\documents\visual studio 2013\Projects\AdvancedGIS\AdvancedGIS\obj\Debug\AdvancedGIS.csproj.GenerateResource.Cache
+c:\users\zeb\documents\visual studio 2013\Projects\AdvancedGIS\AdvancedGIS\obj\Debug\AdvancedGIS.exe
+c:\users\zeb\documents\visual studio 2013\Projects\AdvancedGIS\AdvancedGIS\obj\Debug\AdvancedGIS.pdb
+C:\Users\zeb\Documents\Visual Studio 2013\Projects\AdvancedGIS\AdvancedGIS\obj\Debug\AdvancedGIS.AGIS.resources
+C:\Users\zeb\Documents\Visual Studio 2013\Projects\AdvancedGIS\AdvancedGIS\obj\Debug\AdvancedGIS.DialogForm.GridParasDialog.resources
+C:\Users\zeb\Documents\Visual Studio 2013\Projects\AdvancedGIS\AdvancedGIS\obj\Debug\AdvancedGIS.DialogForm.DenseGridParas.resources
+F:\study\VSProjects\AdvancedGIS\AdvancedGIS\obj\Debug\AdvancedGIS.exe
+F:\study\VSProjects\AdvancedGIS\AdvancedGIS\obj\Debug\AdvancedGIS.pdb
+F:\study\VSProjects\AdvancedGIS\AdvancedGIS\bin\Debug\AdvancedGIS.exe
+F:\study\VSProjects\AdvancedGIS\AdvancedGIS\bin\Debug\AdvancedGIS.pdb
+F:\study\VSProjects\AdvancedGIS\AdvancedGIS\obj\Debug\AdvancedGIS.csprojResolveAssemblyReference.cache
+F:\study\VSProjects\AdvancedGIS\AdvancedGIS\obj\Debug\AdvancedGIS.AGIS.resources
+F:\study\VSProjects\AdvancedGIS\AdvancedGIS\obj\Debug\AdvancedGIS.DialogForm.DenseGridParas.resources
+F:\study\VSProjects\AdvancedGIS\AdvancedGIS\obj\Debug\AdvancedGIS.DialogForm.GridParasDialog.resources
+F:\study\VSProjects\AdvancedGIS\AdvancedGIS\obj\Debug\AdvancedGIS.Properties.Resources.resources
+F:\study\VSProjects\AdvancedGIS\AdvancedGIS\obj\Debug\AdvancedGIS.csproj.GenerateResource.Cache
+F:\study\VSProjects\AdvancedGIS\AdvancedGIS\obj\Debug\AdvancedGIS.DialogForm.IsolineParasDialog.resources
+F:\study\VSProjects\AdvancedGIS\AdvancedGIS\obj\Debug\AdvancedGIS.DialogForm.PolygonInfo.resources
+F:\study\VSProjects\AdvancedGIS\AdvancedGIS\obj\Debug\AdvancedGIS.DialogForm.TopologyForm.resources
